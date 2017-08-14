@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/exechealthz-arm64:v1.2.0
+FROM gcr.io/google_containers/exechealthz-arm64:1.2
 MAINTAINER strugglebak <strugglebak@strugglebak.me>
