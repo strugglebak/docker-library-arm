@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/exechealthz-arm64:1.1
-MAINTAINER strugglebak <strugglebak@strugglebak.me>
+FROM gcr.io/google_containers/exechealthz-arm:1.2
+MAINTAINER James Zhao <jameszhao1116@gmail.com>
